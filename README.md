@@ -13,6 +13,8 @@
 
 [[Project Page / Demo / Model Weights](https://llava-rlhf.github.io/)]
 
+This branch is for testing that this repo actually runs. The README will be updated ...
+
 LLaVA-RLHF represents the first open-source **RLHF-trained** large multimodal model for general-purpose visual and language understanding, achieving impressive visual reasoning and perception capabilities. For comprehensive details and insights, we kindly direct you to our [project page](https://llava-rlhf.github.io/) and [paper](https://arxiv.org/abs/2309.14525).
 
 ## Inference
